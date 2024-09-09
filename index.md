@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Welcome
+title: Title
 ---
 
-# Welcome to My GitHub Page
+# Some Heading
 
-This is my GitHub Pages site using the Cayman theme!
+Some Text
