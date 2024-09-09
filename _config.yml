@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 include: 
   - assets/css/style.css
+title: Hello this is a title
+description: and this is a description
