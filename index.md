@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Max Heinze
-description: Description Text
+description: Economics PhD Student @ WU vienna
 ---
 
 # Some Heading
