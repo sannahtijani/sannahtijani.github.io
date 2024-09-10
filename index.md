@@ -4,8 +4,14 @@ title: Max Heinze
 description: Economics PhD Student @ WU Vienna
 ---
 
-# Some Heading
+# ✋ Hi!
 
-Some Text
+I am Max, and I am going to include more text in this section.
 
-Some more text
+# 📝 Research
+
+No text so far.
+
+# 📦 Miscellaneous
+
+No text so far.
