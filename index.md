@@ -14,4 +14,5 @@ No text so far.
 
 # 📦 Miscellaneous
 
-No text so far.
+[🥗 This Week's Scraped Lunch Menus](menu.md) · Tables containing current lunch options from different WU campus places.
+
