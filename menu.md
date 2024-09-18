@@ -5,7 +5,7 @@ title: Menu Page
 description: Daily menu with collapsible sections
 ---
 
-<h1>Menu Page</h1>
+# Menu Page
 
 <details>
   <summary>Monday</summary>
