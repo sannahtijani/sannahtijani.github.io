@@ -21,3 +21,23 @@ $hr-border-color: #eff0f1 !default;
 
 // Import the Cayman theme's default styles after overriding variables
 @import "jekyll-theme-cayman";
+
+// Add alternate row shading for tables
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table tr:nth-child(odd) {
+  background-color: #f9f9f9; /* Light gray for odd rows */
+}
+
+table tr:nth-child(even) {
+  background-color: #ffffff; /* White for even rows */
+}
+
+table th,
+table td {
+  padding: 8px;
+  border: 1px solid $table-border-color;
+}
