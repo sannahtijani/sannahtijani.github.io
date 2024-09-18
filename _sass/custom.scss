@@ -42,13 +42,16 @@ table td {
   border: 1px solid $table-border-color;
 }
 
-/* Remove default triangle for <details> and <summary> */
+/* Remove default triangle for <details> and <summary> across all devices */
 details summary {
   list-style: none;
   cursor: pointer;
 }
 
-details summary::before {
-  content: none; /* Remove the default triangle or any icon */
+details summary::-webkit-details-marker {
+  display: none; /* Removes the default triangle in WebKit-based browsers (Chrome, Safari) */
 }
 
+details summary::marker {
+  display: none; /* Removes the default triangle in Firefox and other browsers */
+}
