@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Max Heinze
+title: [Max Heinze](index.md)
 description: Economics PhD Student @ WU Vienna
 ---
 
