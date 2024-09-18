@@ -16,7 +16,7 @@ Vashold, L., Pirich, G., Heinze, M., & Kuschnig, N. (2024). *Mines–Rivers–Yi
 
 # 👨‍🏫 Teaching
 
-**Winter Semester 2024/25:** Macroeconomics (B.Sc. level, as co-lecturer) · [View Syllabus](https://vvz.wu.ac.at/cgi-bin/vvz.pl?C=L;I=2398;LV=3;L2=S;L3=S;U=H;S=24W;LANG=EN)
+Winter Semester 2024/25 · Macroeconomics (B.Sc. level, as co-lecturer) · [View Syllabus](https://vvz.wu.ac.at/cgi-bin/vvz.pl?C=L;I=2398;LV=3;L2=S;L3=S;U=H;S=24W;LANG=EN)
 
 
 # 📦 Miscellaneous
