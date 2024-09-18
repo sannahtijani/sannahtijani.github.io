@@ -41,3 +41,14 @@ table td {
   padding: 8px;
   border: 1px solid $table-border-color;
 }
+
+/* Remove default triangle for <details> and <summary> */
+details summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+details summary::before {
+  content: none; /* Remove the default triangle or any icon */
+}
+
