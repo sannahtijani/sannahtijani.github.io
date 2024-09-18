@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Menu Page
-description: Daily menu with collapsible sections
+title: Max Heinze
+description: Economics PhD Student @ WU Vienna
 ---
 
 # This Week's Scraped Lunch Menus
@@ -9,7 +9,7 @@ description: Daily menu with collapsible sections
 Note: English text is (mostly) Google-translated from German menus and may therefore be inaccurate. **Click** on a weekday to expand that day's menu.
 
 <details>
-  <summary>## Monday</summary>
+  <summary><h2>Monday</h2></summary>
   <table class="dataframe menu-table">
   <tbody>
     <tr>
@@ -269,7 +269,7 @@ Note: English text is (mostly) Google-translated from German menus and may there
 </details>
 
 <details>
-  <summary>## Tuesday</summary>
+  <summary><h2>Tuesday</h2></summary>
   <table class="dataframe menu-table">
   <tbody>
     <tr>
@@ -529,7 +529,7 @@ Note: English text is (mostly) Google-translated from German menus and may there
 </details>
 
 <details>
-  <summary>## Wednesday</summary>
+  <summary><h2>Wednesday</h2></summary>
   <table class="dataframe menu-table">
   <tbody>
     <tr>
@@ -789,7 +789,7 @@ Note: English text is (mostly) Google-translated from German menus and may there
 </details>
 
 <details>
-  <summary>## Thursday</summary>
+  <summary><h2>Thursday</h2></summary>
   <table class="dataframe menu-table">
   <tbody>
     <tr>
@@ -1049,7 +1049,7 @@ Note: English text is (mostly) Google-translated from German menus and may there
 </details>
 
 <details>
-  <summary>## Friday</summary>
+  <summary><h2>Friday</h2></summary>
   <table class="dataframe menu-table">
   <tbody>
     <tr>
