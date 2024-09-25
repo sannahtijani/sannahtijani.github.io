@@ -4,7 +4,7 @@ title: Max Heinze
 description: Economics PhD Student @ WU Vienna
 ---
 
-# Interactive Charts for Teaching Introductory Macroeconomics
+# Interactive Charts for Teaching Introductory Macroeconomics [German]
 
 Created using GeoGebra.
 
