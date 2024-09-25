@@ -6,8 +6,10 @@ description: Economics PhD Student @ WU Vienna
 
 # Interactive Charts for Teaching Introductory Macroeconomics
 
-Created using GeoGebra, designed for German-language classes.
+Created using GeoGebra, available in English and German.
 
 ## IS-LM Model
+
+<p><iframe style="border: 0px;" title="islm" src="https://www.geogebra.org/material/iframe/id/kp6ysmr9/width/549/height/505/border/888888/sfsb/false/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="549px" height="505px"></iframe></p>
 
 <p><iframe style="border: 0px;" title="islm" src="https://www.geogebra.org/material/iframe/id/x8gbrtvr/width/549/height/505/border/888888/sfsb/false/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="549px" height="505px"></iframe></p>
