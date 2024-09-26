@@ -19,3 +19,9 @@ Created using GeoGebra, available in English and German.
 <p><iframe style="border: 0px;" title="islm" src="https://www.geogebra.org/material/iframe/id/jtjc79zt/width/549/height/505/border/888888/sfsb/false/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="549px" height="505px"></iframe></p>
 
 <p><iframe style="border: 0px;" title="islm" src="https://www.geogebra.org/material/iframe/id/pwfbazdk/width/549/height/505/border/888888/sfsb/false/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="549px" height="505px"></iframe></p>
+
+## Closed Economy Goods Market
+
+<p><iframe style="border: 0px;" title="islm" src="https://www.geogebra.org/material/iframe/id/szcmzgzv/width/600/height/800/border/888888/sfsb/false/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="600px" height="800px"></iframe></p>
+
+<p><iframe style="border: 0px;" title="islm" src="https://www.geogebra.org/material/iframe/id/vu3btrmh/width/600/height/800/border/888888/sfsb/false/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="600px" height="800px"></iframe></p>
