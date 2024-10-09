@@ -19,6 +19,9 @@ Vashold, L., Pirich, G., Heinze, M., & Kuschnig, N. (2024). _Mines-Rivers-Yields
 
 Winter Semester 2024/25 · Macroeconomics (B.Sc. level, as co-lecturer) · [View Syllabus](https://vvz.wu.ac.at/cgi-bin/vvz.pl?C=L;I=2398;LV=3;L2=S;L3=S;U=H;S=24W;LANG=EN)
 
+<span style="color: #808080;">Summer Semester 2025 · Econometrics I (B.Sc. level, as lecturer)</span>
+
+
 
 # 📦 Miscellaneous
 
