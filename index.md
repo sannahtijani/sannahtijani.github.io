@@ -29,3 +29,7 @@ Winter Semester 2024/25 · Macroeconomics (B.Sc. level, as co-lecturer) · [View
 
 [📐 Interactive Charts for Teaching Introductory Macroeconomics](interactivemacro.md) · Charts of introductory Macro models (based on the textbook by Blanchard) with interactive sliders.
 
+[💻 More Colorful Beamer Template](https://www.overleaf.com/read/kwkjhxfrbpcz#0ff317) [External Link] · The more colorful version of the (messy) LaTeX Beamer template I use.
+
+[💻 Less Colorful Beamer Template](https://www.overleaf.com/read/yzktsvtbpbwt#235b84) [External Link] · The less colorful version of the (messy) LaTeX Beamer template I use.
+
