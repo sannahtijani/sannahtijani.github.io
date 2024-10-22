@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # ✋ Hi!
 
-I am Max, and I am an Economics PhD student at the Vienna University of Economics and Business (WU Vienna). This site is under construction and is therefore -- as of now -- only filled with content very sparsely.
+I am Max, and I am a first-year Economics PhD student at the Vienna University of Economics and Business (WU Vienna). 
 
 # 📝 Research
 
