@@ -25,3 +25,9 @@ Created using GeoGebra, available in English and German.
 <p><iframe style="border: 0px;" title="islm" src="https://www.geogebra.org/material/iframe/id/szcmzgzv/width/600/height/800/border/888888/sfsb/false/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="600px" height="800px"></iframe></p>
 
 <p><iframe style="border: 0px;" title="islm" src="https://www.geogebra.org/material/iframe/id/vu3btrmh/width/600/height/800/border/888888/sfsb/false/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="600px" height="800px"></iframe></p>
+
+## Labor Market and IS-LM-PC Diagram
+
+<p><iframe style="border: 0px;" title="islm" src="https://www.geogebra.org/material/iframe/id/jfasywse/width/800/height/600/border/888888/sfsb/false/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="800px" height="600px"></iframe></p>
+
+<p><iframe style="border: 0px;" title="islm" src="https://www.geogebra.org/material/iframe/id/xwauuss2/width/800/height/600/border/888888/sfsb/false/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="800px" height="600px"></iframe></p>
