@@ -33,3 +33,5 @@ Winter Semester 2024/25 · Macroeconomics (B.Sc. level, as co-lecturer) · [View
 
 [💻 Less Colorful Beamer Template](https://www.overleaf.com/read/yzktsvtbpbwt#235b84) [External Link] · The less colorful version of the (messy) LaTeX Beamer template I use.
 
+[🧮 Matrix Definiteness Checker](matrix.md) [External Link] · Check the definiteness of a matrix.
+
