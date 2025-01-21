@@ -35,5 +35,5 @@ Winter Semester 2024/25 · Macroeconomics (B.Sc. level, as co-lecturer) · [View
 
 [🧮 Matrix Definiteness Checker](matrix.md) · Check the definiteness of a matrix.
 
-[🧮 Matrix Determinant](matrix.md) · Compute the determinant of a matrix.
+[🧮 Matrix Determinant](determinant.md) · Compute the determinant of a matrix.
 
