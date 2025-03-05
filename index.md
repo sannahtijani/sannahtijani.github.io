@@ -33,8 +33,6 @@ Summer Semester 2025 · Econometrics I (B.Sc. level, as lecturer) · [View Sylla
 
 [💻 Less Colorful Beamer Template](https://www.overleaf.com/read/yzktsvtbpbwt#235b84) [External Link] · The less colorful version of the (messy) LaTeX Beamer template I use.
 
-[💻 Less Colorful Quarto/Reveal.js Template](assets/quarto_revealjs_slides_lesscolorful.zip) · A Quarto/Reveal.js slide set that is inspired by my less colorful Beamer template.
-
 [🧮 Matrix Definiteness Checker](matrix.md) · Check the definiteness of a matrix.
 
 [🧮 Matrix Determinant](determinant.md) · Compute the determinant of a matrix.
