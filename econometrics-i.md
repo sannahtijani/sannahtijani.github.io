@@ -13,3 +13,5 @@ description: Economics PhD Student @ WU Vienna
 **Module 1: Introduction** · [View German Slides](assets/1_einfuehrung.html)
 
 **Module 2: Simple Linear Regression** · [View German Slides](assets/2_einfache_lineare_regression.html)
+
+**Module 3: Multiple Linear Regression** · [View German Slides](assets/3_multiple_lineare_regression.html)
