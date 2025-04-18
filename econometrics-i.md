@@ -8,10 +8,12 @@ description: Economics PhD Student @ WU Vienna
 
 **Module 00: Preliminaries** · [View German Slides](assets/00_grundlagen.html) · [View English Slides](assets/00_preliminaries.html)
 
-**Module 0: Formalities** · [View German Slides](assets/0_organisatorisches.html)
+**Module 0: Formalities** · [View German Slides](assets/0_organisatorisches.html) · [View English Slides](assets/0_formalities.html)
 
-**Module 1: Introduction** · [View German Slides](assets/1_einfuehrung.html)
+**Module 1: Introduction** · [View German Slides](assets/1_einfuehrung.html) · [View English Slides](assets/1_introduction.html)
 
-**Module 2: Simple Linear Regression** · [View German Slides](assets/2_einfache_lineare_regression.html)
+**Module 2: Simple Linear Regression** · [View German Slides](assets/2_einfache_lineare_regression.html) · [View English Slides](assets/2_simple_linear_regression.html)
 
-**Module 3: Multiple Linear Regression** · [View German Slides](assets/3_multiple_lineare_regression.html)
+**Module 3: Multiple Linear Regression** · [View German Slides](assets/3_multiple_lineare_regression.html) · [View English Slides](assets/3_multiple_linear_regression.html)
+
+**Module 4: Testing and Inference** · [View German Slides](assets/4_tests_und_inference.html)· [View English Slides](assets/4_testing_and_inference.html)
