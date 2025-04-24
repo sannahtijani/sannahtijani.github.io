@@ -16,8 +16,8 @@ description: Economics PhD Student @ WU Vienna
 
 **Module 3: Multiple Linear Regression** · [View German Slides](assets/3_multiple_lineare_regression.html) · [View English Slides](assets/3_multiple_linear_regression.html)
 
-**Module 4: Testing and Inference** · [View German Slides](assets/4_tests_und_inferenz.html)· [View English Slides](assets/4_testing_and_inference.html)
+**Module 4: Testing and Inference** · [View German Slides](assets/4_tests_und_inferenz.html) · [View English Slides](assets/4_testing_and_inference.html)
 
-**Module 5: More on Multiple Regression** · [View German Slides](assets/5_mehr_zu_multipler_regression.html)· [View English Slides](assets/5_more_on_multiple_regression.html)
+**Module 5: More on Multiple Regression** · [View German Slides](assets/5_mehr_zu_multipler_regression.html) · [View English Slides](assets/5_more_on_multiple_regression.html)
 
-**Module 6: Heteroskedasticity** · [View German Slides](assets/6_heteroskedastizitaet.html)· [View English Slides](assets/6_heteroskedasticity.html)
+**Module 6: Heteroskedasticity** · [View German Slides](assets/6_heteroskedastizitaet.html) · [View English Slides](assets/6_heteroskedasticity.html)
