@@ -3,25 +3,31 @@
 
 @import "custom";
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Red+Hat+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Playfair+Display:wght@700&display=swap');
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
 }
 
 /* Apply Red Hat Display font in bold to all titles and headlines */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Red Hat Display', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-weight: bold;
 }
 
 /* Custom styles for header title link */
 h1.project-name a {
-  color: white;           /* Make the text white */
+  color: black;           /* Make the text white */
   text-decoration: none;  /* Remove underline */
 }
 
 h1.project-name a:hover {
   text-decoration: none;  /* Prevent underline on hover */
+}
+
+/* Custom styles for header title link */
+btn.project-name a {
+  color: black;           /* Make the text white */
+  text-decoration: none;  /* Remove underline */
 }
 
