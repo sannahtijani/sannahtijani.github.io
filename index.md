@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Max Heinze
+title: Sannah Tijani
 description: Economics PhD Student @ WU Vienna
 ---
 
 # ✋ Hi!
 
-I am Max, and I am a first-year Economics PhD student at the Vienna University of Economics and Business (WU Vienna). 
+I am Sannah, and I am a first-year Economics PhD student at the Vienna University of Economics and Business (WU Vienna). 
 
 # 📝 Research
 
