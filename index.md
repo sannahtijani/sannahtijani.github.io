@@ -6,7 +6,13 @@ description: Economics PhD Student @ WU Vienna
 
 # ✋ Hi!
 
-I am Sannah, and I am a first-year Economics PhD student at the Vienna University of Economics and Business (WU Vienna). 
+Hi, I’m Sannah — a first-year Economics PhD student at the Vienna University of Economics and Business (WU Vienna).
+
+My research interests lie in applied microeconomics, with a strong focus on political economics and the question of political bias in media content.
+
+The second part of my research dives into crime economics, especially the sex work market. I’m exploring how gender inequalities shape this market and how legislation ties into human trafficking.
+
+Finally, I bring it all together by looking at how stigma and bias influence policymaking — using sex work as a case in point. 
 
 # 📝 Research
 
