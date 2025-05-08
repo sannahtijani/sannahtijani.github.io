@@ -14,7 +14,8 @@ I am Sannah, and I am a first-year Economics PhD student at the Vienna Universit
 
 # 👨‍🏫 Teaching
 
-Summer Semester 2025 · Econometrics I (B.Sc. level, as lecturer) · [View Syllabus](https://vvz.wu.ac.at/cgi-bin/vvz.pl?S=25S;JOIN=AND;T=;LV=3;L2=S;C=S;L3=S;I=6250;L=;U=H;LANG=EN) · [💻 View Slides](econometrics-i.md)
+Summer Semester 2025 * Econometrics I (B.Sc. level, as lecturer) · [View Syllabus](https://vvz.wu.ac.at/cgi-bin/vvz.pl?C=L;I=5319;LV=3;L2=S;L3=S;U=H;S=25S;LANG=EN) 
+                     * Microeconomics (B.Sc.)[View Syllabus](https://vvz.wu.ac.at/cgi-bin/vvz.pl?C=L;I=6359;LV=3;L2=S;L3=S;U=H;S=25S;LANG=EN)
 
 
 
