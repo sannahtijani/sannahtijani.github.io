@@ -12,11 +12,11 @@ My research interests lie in applied microeconomics, with a strong focus on poli
 
 The first part of my research focus on the question of political bias in media content. The second part dives into the sex work market. I’m exploring how gender inequalities shape this market and how legislation ties into human trafficking. Finally, I bring it all together by looking at how stigma and bias influence policymaking — using sex work as a case in point. 
 
-# 📝 Research
+#  Research
 
 
 
-# 👨‍🏫 Teaching
+# Teaching
 
 Summer Semester 2025 
 * Econometrics I (B.Sc.) · [View Syllabus](https://vvz.wu.ac.at/cgi-bin/vvz.pl?C=L;I=5319;LV=3;L2=S;L3=S;U=H;S=25S;LANG=EN) 
@@ -24,6 +24,9 @@ Summer Semester 2025
 
 
 
-# 📦 What's Next: 
+#  What's Next: 
 Participation to the Oxford Summer School in Septembre 2025. 
+
+#  Random fact:
+I pass my free time rescuing books trapped in bookstores. 
 
