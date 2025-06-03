@@ -26,6 +26,7 @@ Summer Semester 2025
 
 #  What's Next: 
 Participation to the Oxford Summer School in Septembre 2025. 
+Research Proposal.
 
 #  Random fact:
 I pass my free time rescuing books trapped in bookstores. 
