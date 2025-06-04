@@ -25,6 +25,8 @@ Summer Semester 2025
 
 
 #  What's Next: 
+Summer School 2025: AI for Economics and Research, hosted by the National Bank of Slovakia.
+
 Participation to the Oxford Summer School in Septembre 2025. 
 
 Research Proposal.
