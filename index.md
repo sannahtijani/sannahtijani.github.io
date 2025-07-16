@@ -25,11 +25,11 @@ Summer Semester 2025
 
 
 #  What's Next: 
-July 2025: AI for Economics and Research, Summer School hosted by the National Bank of Slovakia.
+September 2025: Participation to the Oxford Summer School.
 
-Septembre 2025: Participation to the Oxford Summer School.
+September 2025: Second Freiburg PhD Workshop: Economics of Criminal Behavior
 
-Septembre 2025: Research Proposal.
+September 2025: Research Proposal.
 
 #  Random fact:
 I pass my free time rescuing books trapped in bookstores. 
