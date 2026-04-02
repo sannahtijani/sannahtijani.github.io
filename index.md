@@ -15,9 +15,11 @@ The first part of my research focus on the question of political bias in media c
 #  Research
 
 Fact-checking Online and Offline
+
 With [C. Louis-Sidois](https://sites.google.com/view/charleslouis-sidois/research?authuser=0)
 
 Stigma and Policy Preferences in Taboo Markets: Sex Work Decriminalization
+
 with [F. Braccioli](https://federicabraccioli.github.io/research/)
 
 
