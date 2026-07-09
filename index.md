@@ -30,7 +30,7 @@ Stigma and Policy Preferences in Taboo Markets: Sex Work Decriminalization (with
 #  What's Next: 
 June 2026: PSE Summer School: The Economics of Gender Diversity
 
-July 2026: I will be visiting Pr Emeric Henry and Pr Roberto Galbiati at Sciences Po
+July 2026: I will be visiting Pr Emeric Henry at Sciences Po
 
 October 2026: I will be visiting the Independent Research Group “Behavioral Economics of Crime and Conflict” at the Max Planck Institute for the Study of Crime, Security and Law.
 
