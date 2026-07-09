@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # ✋ Hi!
 
-Hi, I’m Sannah — a first-year Economics PhD student at the Vienna University of Economics and Business (WU Vienna).
+Hi, I’m Sannah — a second-year Economics PhD student at the Vienna University of Economics and Business (WU Vienna).
 
 My research interests lie in applied microeconomics, with a strong focus on political and crime economics.
 
