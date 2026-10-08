@@ -12,16 +12,27 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <style>
+      .profile-photo {
+        width: 160px;
+        height: 160px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 4px solid rgba(255, 255, 255, 0.7);
+        margin-bottom: 1rem;
+      }
+    </style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
+      <img src="/assets/picture_Sannah_Tijani.jpg" alt="Sannah Tijani" class="profile-photo">
       <h1 class="project-name">
         <a href="{{ site.baseurl }}/">{{ page.title | default: site.title | default: site.github.repository_name }}</a>
       </h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="/assets/cv_website.pdf" class="btn">📄 View CV</a>
+      <a href="/assets/CV.pdf" class="btn">📄 View CV</a>
       <a href="https://www.wu.ac.at/en/economics/people/tijani-s" class="btn">🎓 Employer Page</a>
       <a href="mailto:sannah.tijani@wu.ac.at" class="btn">📬 Email </a>
     </header>
